@@ -5,7 +5,7 @@ REQUIREMENTS
 
 Usage is straightforward and requires JavaScript on the client's browser to work. Tubular is a jQuery plugin and therefore relies on jQuery. You will need to know the YouTube ID of the video you want to use as well as the container DIV of your web page.
 
-Please note, tubular must be deployed on a web server to function.  The YouTube player will not work when loaded into your browser from your machine.
+Please note, tubular must be deployed on a web server to function.  The YouTube player will not work when loaded into your browser from your machine. Rechanging this text again
 
 INSTRUCTIONS
 
